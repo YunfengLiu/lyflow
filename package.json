@@ -1,6 +1,6 @@
 {
   "name": "lyflow",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Node.js small foot print light weight general promise module",
   "main": "index.js",
   "scripts": {

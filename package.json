@@ -1,0 +1,24 @@
+{
+  "name": "lyflow",
+  "version": "1.0.0",
+  "description": "Node.js small foot print light weight general promise module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YunfengLiu/lyflow.git"
+  },
+  "keywords": [
+    "Node.js",
+    "javascript",
+    "Promise"
+  ],
+  "author": "Yunfeng Liu <yunfeng.liu@solarminer.com> (http://www.solarminer.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YunfengLiu/lyflow/issues"
+  },
+  "homepage": "https://github.com/YunfengLiu/lyflow"
+}
